@@ -1,0 +1,13 @@
+#container{
+    width: 900px;
+}
+
+.row{
+    display: flex;
+}
+
+.row > div{
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+}
